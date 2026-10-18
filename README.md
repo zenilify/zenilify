@@ -2,7 +2,7 @@
 
 Operational excellence for manufacturing, and a home lab I run like a plant.
 
-I spent years on factory floors in Mexico and Switzerland: cost of poor quality, line capacity, idea management, Industry 4.0 pilots that actually scale. In 2024 I founded **[Zenilify Consulting](https://zenilify-consulting.com)** (Toluca · Mexico City · remote) to do that work for mid-sized manufacturers. **[Kaizen Lab](https://kaizen-lab.dev)** is its technical side: a home lab built in public with a lean mindset, where I test self-hosting, local AI, smart-home and DIY hardware on real gear before I recommend any of it.
+I spent years on factory floors in Europe, USA, Latinamerica & the Middle East: cost of poor quality, line capacity, idea management, Industry 4.0 pilots that actually scale. In 2024 I founded **[Zenilify Consulting](https://zenilify-consulting.com)** (Toluca · Mexico City · remote) to do that work for mid-sized manufacturers. **[Kaizen Lab](https://kaizen-lab.dev)** is its technical side: a home lab built in public with a lean mindset, where I test self-hosting, local AI, smart-home and DIY hardware on real gear before I recommend any of it.
 
 ## The lab, measured in public
 
